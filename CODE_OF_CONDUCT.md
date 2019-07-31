@@ -6,7 +6,7 @@ The Rails team is committed to fostering a welcoming community.
 
 https://rubyonrails.org/conduct/
 
-For a history of updates, see the page history here:
+For history of updates, see the page history here:
 
 https://github.com/rails/homepage/commits/master/conduct.html
 
